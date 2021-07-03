@@ -5,7 +5,7 @@
 }
     
 .content1{
-    background-image:url(jj.jpeg);
+    background-image:url(images/jj.jpeg);
     width:100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -107,7 +107,7 @@ a:hover{
 }
 
 .page3{
-    background-image:url(j3.jpg);
+    background-image:url(images/j3.jpg);
     width:100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -206,7 +206,7 @@ a:hover{
 }
 
 .page6{
-    background-image:url(junglee.jpg);
+    background-image:url(images/junglee.jpg);
     width:100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -303,9 +303,7 @@ input{
 @media screen and (max-width: 700px) {
     .page7 .main {
       display: block;
-      width: auto;
-      align-content: center;
-      
+      /* width: auto; */
     }
 }
 
@@ -368,7 +366,7 @@ input{
 }
 
 .page9{
-    background-image:url(jungle2.jpg);
+    background-image:url(images/jungle2.jpg);
     width:100%;
     background-position: center;
     background-repeat: no-repeat;
